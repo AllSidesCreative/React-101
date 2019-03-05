@@ -7,7 +7,7 @@ export default class ButtonWrapper extends Component {
 
         return (
           <Button
-            title={'My First Component'} />
+            title={''} />
         );
     }
 }
